@@ -1,9 +1,9 @@
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+
 [![MasterHead](https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Shubhi Goel</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhigoel23&label=Profile%20views&color=0e75b6&style=flat" alt="shubhigoel23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhigoel23" alt="shubhigoel23" /></a> </p>
