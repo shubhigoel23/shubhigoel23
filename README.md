@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw1leJ-xcg_OKHfJAlyIL_Fd&ust=1729146518594000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCbhIOjkokDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <h1 align="center">Hi 👋, I'm Shubhi Goel</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
