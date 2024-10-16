@@ -4,19 +4,16 @@
 <h1 align="center">Hi 👋, I'm Shubhi Goel</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhigoel23&label=Profile%20views&color=0e75b6&style=flat" alt="shubhigoel23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhigoel23" alt="shubhigoel23" /></a> </p>
+🔭 I’m currently working on **Machine Learning-Based Methodology for Economic Forecasting**
 
-- 🔭 I’m currently working on **Machine Learning-Based Methodology for Economic Forecasting**
+🌱 I’m currently learning **Machine Learning,Deep Learning**
 
-- 🌱 I’m currently learning **Machine Learning,Deep Learning**
+💬 Ask me about **Python,C++,SQL.**
 
-- 💬 Ask me about **Python,C++,SQL.**
+📫 How to reach me **shubhigoel23@gmail.com**
 
-- 📫 How to reach me **shubhigoel23@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bvXBZyJtQ7MeFCWfI4tokN-g5bUh73YuzCKBHEfY1U4/edit?usp=sharing](https://docs.google.com/document/d/1bvXBZyJtQ7MeFCWfI4tokN-g5bUh73YuzCKBHEfY1U4/edit?usp=sharing)
+📄 Know about my experiences [https://docs.google.com/document/d/1bvXBZyJtQ7MeFCWfI4tokN-g5bUh73YuzCKBHEfY1U4/edit?usp=sharing](https://docs.google.com/document/d/1bvXBZyJtQ7MeFCWfI4tokN-g5bUh73YuzCKBHEfY1U4/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,4 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhigoel23&show_icons=true&locale=en" alt="shubhigoel23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhigoel23&" alt="shubhigoel23" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhigoel23&label=Profile%20views&color=0e75b6&style=flat" alt="shubhigoel23" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhigoel23" alt="shubhigoel23" /></a> </p>
 
